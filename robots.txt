@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /sabirelli-pages/
+Sitemap: https://juergenzahnde-sudo.github.io/sabirelli-pages/sitemap.xml
